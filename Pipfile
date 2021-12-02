@@ -9,6 +9,8 @@ nltk = "*"
 networkx = "*"
 matplotlib = "*"
 plotly = "*"
+textblob = "*"
+pandas = "*"
 
 [dev-packages]
 
